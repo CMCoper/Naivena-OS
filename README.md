@@ -14,4 +14,4 @@ Follow these steps to install and set up the Naivena Web OS locally.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/CMCoper/Naivena.git
+   git clone https://github.com/CMCoper/naivena-os.git
